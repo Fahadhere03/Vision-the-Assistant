@@ -21,7 +21,7 @@ class Ui_VisionGui(object):
         self.label.setGeometry(QtCore.QRect(0, 0, 1021, 581))
         self.label.setMinimumSize(QtCore.QSize(1021, 551))
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("C:\Vision\Media\Background.gif"))
+        self.label.setPixmap(QtGui.QPixmap("C:\Vision\Media\Background.png"))
         self.label.setScaledContents(True)
         self.label.setObjectName("label")
         self.pushButton = QtWidgets.QPushButton(self.centralwidget)
